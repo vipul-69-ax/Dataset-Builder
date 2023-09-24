@@ -6,6 +6,9 @@
 
 The **Image Dataset Builder** is a versatile desktop application designed to streamline the process of creating image datasets for data analytics, machine learning, and deep learning projects using Python. This powerful tool empowers researchers, data scientists, and machine learning enthusiasts to effortlessly gather diverse sets of images from various online sources, all from the convenience of their desktop.
 
+## Interface
+![App Interface](Screenshot 2023-09-24 094709.png)
+
 ### Key Features
 
 - **Multi-Source Image Acquisition**:
